@@ -170,3 +170,8 @@ t \approx \frac{97,087,379}{86,400} \approx 1,124 \, \text{days} \, (\sim 3.1 \,
 
 ## 5. Conclusion
 While VASIMR technology demonstrates impressive efficiency, its practical application for heavy payload interplanetary missions is hindered by extended mission durations (especially in low-thrust configurations) and the immense power demands of scaled systems. Significant advancements in lightweight reactor technologies, structural optimization, and mission planning are necessary to unlock its potential.
+
+# Background
+- [Table of motor technologies and their fuel/energy use](./table.mht)
+- [excel file](./table.xlsx)
+- 
