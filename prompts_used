@@ -1,0 +1,36 @@
+- im interested in space travel, specifically propulsion. There are several categories and implementations of chemical, nuclear, and fusion rockets either in-developement or preliminary testing (beyond concept phase). Please provide a table of class leading motors sorted by ISP, columns include: name, country of origin, year introduced, fuel, ISP, and fuel consumed per mega Newton thrust.
+- add in a first 2 rows with spacex 2 rockets
+- add a firsts column that identifies "type" of motor
+- in the electrically excited motors, there is also electrical energy consumed. Please identify power use per MN thrust as well. Delete COO and Year columns
+- add in a few nuclear and fusion motors, with projections to their thrust and fuel consumption (and power use)
+- where there is electrical power consumed, add callouts for the proposed power generator and its fuel mass consumption. I'm interested in fuel mass needed for long-haul flightss
+- i hate the scroll bar in the table, can you reformat so no scroll bar is needed. I want to visualize the data all at once
+- well, now i have to scroll vertically. Provide the output as a CSV file that I can copy and paste into excel
+- that took me 10 steps to visualize in excel. is there a more convenient output you can produce so I can visualize in fewer steps
+- wheres the rest of your response. you stalled there
+- change fuel consumption to kg per day please
+- the numbers look off for raptor and merlin. I thought they consumed 20t per second of fuel? the table shows 63t per day?
+- what other types of chemical fueld rockets are in current use besides methalox and rp1
+- add in a leading example of 1,2,5 please
+- sorry, add those examples to the excel MD table output
+- Tell me about the VASIMR VX-200.  
+- What is the mass of a nuclear reactor that would be needed?  
+- What has Ad Astra estimated? Do they have a conceptual system specced out?  
+- What is the mass of a rocket using this technology that would be needed to transport 100t cargo on a 1000d mission?  
+- How many days would this system take to achieve the delta v of 10km per s?  
+- Scale that to a KN of thrust and re-analyze.  
+- Show the mass breakdown again for this system.  
+- Add back in the propellant and payload and summarize the mass components. Then, re-calculate the time (days) to achieve the 10km/s of delta-v.  
+- Summarize the results from the initial system and final system... How long to achieve 10 km per s delta V with 100t cargo?  
+- Can I short the stock of Ad Astra? Looks like they are selling snake oil.  
+- I mean that the VASIMR technology doesn't scale practically. Do you agree?  
+- Write a whitepaper 2-5 pages that documents this analysis.  
+- Re-calculate. The initial mission duration of 1000d fell short of the desire to achieve delta v of 10km per s. Let's change the requirements of both systems to: time to achieve 10 km per s delta V, fuel load required to achieve that, at the initial 5.7N VASIMR motor, and the scaled 1000N motor. Summarize the math first. Don't write the paper yet.  
+- Let's dig into the 5.7 N system step 1. What mass of propellant is needed to achieve delta v of 10km per s with the given parameters?  
+- OK re-write the whitepaper with these corrections.  
+- Format this output in simple MD format so I can archive at GitHub.  
+- How do I see the history of conversations with you? I'd like a link to this entire thread (rocket analysis).  
+- Can you provide a series of links (list of links) that summarizes each prompt:response pair we had on this topic?  
+- Can you provide a detailed summary of all my prompts, so I can re-create this journey if necessary?  
+- Provide the simple unordered list of prompts without summarization.
+- format the list in github MD
